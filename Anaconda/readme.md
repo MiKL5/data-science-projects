@@ -1,4 +1,4 @@
-<h1 align="center"><b>Python pour la Data Analyse et la Data Science</b><a href="../"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
+<h1 align="center"><b>Python pour la Data Analyse et la Data Science</b><a href="../"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/white"><source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="64" align="right"></picture></a></h1>
 
 <!-- ## **Projets**
 [Analyse des données de Netflic](netflix)  
@@ -8,7 +8,7 @@
 <!-- [Décés par origine et genre]() -->
 <!-- [Rotio de décés par armes à feu selon l'origine]() -->
 <!-- [Filtrer par homicide]() -->
-## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="https://github.com/MiKL5/Python/raw/master/assets/logo/numpy.svg" alt="Numpy" height="24px"></a>
+## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="https://github.com/MiKL5/python/blob/main/assets/logo/numpy.svg" alt="Numpy" height="24px"></a>
 Vecteurs  
 Matrices  
 Tableau en 3D  
@@ -29,7 +29,7 @@ Modifier des tableaux selon des conditions
 Binariser une matrice  
 Opérations d'algèbre linéaire  
 Opération avec les matrice
-## **[Pandas](pandas/)** <a href="learningPandas"><img align="left" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Pandas_mark.svg" alt="Pandas" height="24px"></a>
+## **[Pandas](pandas/)** <a href="learningPandas"><img align="left" src="https://github.com/MiKL5/python/blob/main/assets/logo/Pandas_mark.svg" alt="Pandas" height="24px"></a>
 Les séries  
 Séries comme dictionnaire  
 Modifier une série Pandas  
@@ -52,7 +52,7 @@ Traiter les données manquantes
 Utiliser le format CSV  
 Utiliser le format xlsx  
 Utiliser la format html
-## **[Matplotlib](matplotlib)** <a href="matplotlib"><img align="left" src="https://github.com/MiKL5/Python/raw/master/assets/logo/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
+## **[Matplotlib](matplotlib)** <a href="matplotlib"><img align="left" src="https://github.com/MiKL5/python/blob/main/assets/logo/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
 Représentation graphiques  
 Axes et titres des représentations  
 Réglage du tracé et des axes  
@@ -62,7 +62,7 @@ Comparer les histogrammes
 Diagrammes à boite  
 Nuages de points et courbes en 3D  
 Représentation en 3D et fonctions à 2 variables
-## **[Seaborn](Seaborn)** <a href="Seaborn"><img align="left" src="https://github.com/MiKL5/Python/raw/master/assets/logo/seaborn.svg" alt="Seaborn" height="24px"></a>
+## **[Seaborn](Seaborn)** <a href="Seaborn"><img align="left" src="https://github.com/MiKL5/python/blob/main/assets/logo/seaborn.svg" alt="Seaborn" height="24px"></a>
 Graphique d'une distribution de variable quantitative  
 La fonction `seaborn.catplot()`  
 Graphique d'une distribution de variable qualitative  

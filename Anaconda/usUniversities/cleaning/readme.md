@@ -1,7 +1,8 @@
-<h1>🎓 Études des Universités Américaines<a href="../"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
+<h1>🎓 Études des Universités Américaines<a href="../../"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/white"><source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="64" align="right"></picture></a></h1>
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green) ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange) <!--![Status](https://img.shields.io/badge/Status-In_Progress-red)-->
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green) ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
+
 </div>
 
 ---
